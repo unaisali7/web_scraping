@@ -1,0 +1,40 @@
+Date: Mon, 17 Mar 2025 11:31:58 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+X-Magento-Tags: store,cms_b,cat_c_246,cat_c_p_246
+Content-Security-Policy-Report-Only: font-src *.gstatic.com 'self' data: *.doubleclick.net *.facebook.com *.fontawesome.com www.whiskyshop.com data: 'self' 'unsafe-inline'; form-action geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com pilot-payflowlink.paypal.com www.paypal.com www.sandbox.paypal.com *.adyen.com *.amazon.com *.amazon.co.uk *.amazon.co.jp *.amazon.jp *.amazon.it *.amazon.fr *.amazon.es *.amazon.de *.facebook.com *.scarabresearch.com *.emarsys.net *.luigisbox.com *.freshrelevance.com *.termly.io *.feefo.com www.whiskyshop.com 'self' 'unsafe-inline'; frame-ancestors www.whiskyshop.com 'self'; frame-src fast.amc.demdex.net *.adobe.com bid.g.doubleclick.net *.youtube.com *.youtube-nocookie.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com www.paypal.com www.sandbox.paypal.com pilot-payflowlink.paypal.com player.vimeo.com https://www.google.com/recaptcha/ *.adyen.com *.amazon.com *.amazon.co.uk *.amazon.co.jp *.amazon.jp *.amazon.it *.amazon.fr *.amazon.es *.amazon.de *.payments-amazon.com *.payments-amazon.co.uk *.payments-amazon.co.jp *.payments-amazon.jp *.payments-amazon.it *.payments-amazon.fr *.payments-amazon.es *.payments-amazon.de *.google.com *.doubleclick.net *.facebook.com *.scarabresearch.com *.emarsys.net *.luigisbox.com *.freshrelevance.com *.termly.io *.feefo.com *.mention-me.com www.whiskyshop.com 'self' 'unsafe-inline'; img-src assets.adobedtm.com amcglobal.sc.omtrdc.net dpm.demdex.net cm.everesttech.net *.adobe.com widgets.magentocommerce.com data: www.googleadservices.com www.google-analytics.com googleads.g.doubleclick.net www.google.com bid.g.doubleclick.net analytics.google.com www.googletagmanager.com *.ftcdn.net *.behance.net t.paypal.com www.paypal.com www.paypalobjects.com fpdbs.paypal.com fpdbs.sandbox.paypal.com *.vimeocdn.com i.ytimg.com *.youtube.com validator.swagger.io *.adyen.com d3sbl0c71oxeok.cloudfront.net dhkkzdfmpzvap.cloudfront.net d2bpzs5y44q6e0.cloudfront.net d37shgu97oizpd.cloudfront.net d1zlqll3enr74n.cloudfront.net d1jynp0fpwn93a.cloudfront.net d2cb3tokgpwh3v.cloudfront.net d1re8bfxx3pw6e.cloudfront.net d35u8xwkxs8vpe.cloudfront.net d13s9xffygp5o.cloudfront.net d388nbw0dwi1jm.cloudfront.net d11p2vtu3dppaw.cloudfront.net d3r89hiip86hka.cloudfront.net dc7snq0c8ipyk.cloudfront.net d5c7kvljggzso.cloudfront.net d2h8yg3ypfzua1.cloudfront.net d1b556x7apj5fb.cloudfront.net draz1ib3z71v2.cloudfront.net dr6hdp4s5yzfc.cloudfront.net d2bomicxw8p7ii.cloudfront.net d3aypcdgvjnnam.cloudfront.net d2a3iuf10348gy.cloudfront.net d23yuld0pofhhw.cloudfront.net *.ssl-images-amazon.com *.ssl-images-amazon.co.uk *.ssl-images-amazon.co.jp *.ssl-images-amazon.jp *.ssl-images-amazon.it *.ssl-images-amazon.fr *.ssl-images-amazon.es *.ssl-images-amazon.de *.media-amazon.com *.media-amazon.co.uk *.media-amazon.co.jp *.media-amazon.jp *.media-amazon.it *.media-amazon.fr *.media-amazon.es *.media-amazon.de static-eu.payments-amazon.com 'self' data: *.google.com *.google.bg *.facebook.com *.facebook.net *.doubleclick.net *.googletagmanager.com *.gstatic.com maps.googleapis.com *.scarabresearch.com *.emarsys.net *.luigisbox.com *.freshrelevance.com *.termly.io *.feefo.com www.whiskyshop.com data: 'self' 'unsafe-inline'; script-src assets.adobedtm.com *.adobe.com www.googleadservices.com www.google-analytics.com googleads.g.doubleclick.net analytics.google.com www.googletagmanager.com geostag.cardinalcommerce.com 1eafstag.cardinalcommerce.com geoapi.cardinalcommerce.com 1eafapi.cardinalcommerce.com songbird.cardinalcommerce.com includestest.ccdc02.com www.paypal.com www.sandbox.paypal.com www.paypalobjects.com t.paypal.com s.ytimg.com www.googleapis.com vimeo.com www.vimeo.com *.vimeocdn.com *.youtube.com https://www.gstatic.com/recaptcha/ https://www.google.com/recaptcha/ *.adyen.com *.payments-amazon.com *.payments-amazon.co.uk *.payments-amazon.co.jp *.payments-amazon.jp *.payments-amazon.it *.payments-amazon.fr *.payments-amazon.es *.payments-amazon.de *.google.com *.google.bg *.googletagmanager.com *.facebook.com *.facebook.net *.doubleclick.net *.google-analytics.com *.gstatic.com maps.googleapis.com *.datadoghq-browser-agent.com *.browser-intake-datadoghq.eu browser-intake-datadoghq.eu *.scarabresearch.com *.emarsys.net *.luigisbox.com *.freshrelevance.com *.termly.io *.feefo.com s7.addthis.com *.avada.io *.mention-me.com www.whiskyshop.com 'self' 'unsafe-inline' 'unsafe-eval'; style-src *.adobe.com *.googleapis.com *.doubleclick.net *.facebook.com *.gstatic.com *.googletagmanager.com *.luigisbox.com *.freshrelevance.com *.feefo.com *.fontawesome.com www.whiskyshop.com 'self' 'unsafe-inline'; object-src 'self' 'unsafe-inline'; media-src *.adobe.com www.whiskyshop.com 'self' 'unsafe-inline'; manifest-src 'self' 'unsafe-inline'; connect-src dpm.demdex.net amcglobal.sc.omtrdc.net www.google-analytics.com www.googleadservices.com analytics.google.com www.googletagmanager.com vimeo.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com www.sandbox.paypal.com www.paypalobjects.com www.paypal.com pilot-payflowlink.paypal.com *.adyen.com *.amazon.com *.amazon.co.uk *.amazon.co.jp *.amazon.jp *.amazon.it *.amazon.fr *.amazon.es *.amazon.de *.amazonpay.com *.amazonpay.co.uk *.amazonpay.co.jp *.amazonpay.jp *.amazonpay.it *.amazonpay.fr *.amazonpay.es *.amazonpay.de mws.amazonservices.com mws.amazonservices.co.uk mws.amazonservices.co.jp mws.amazonservices.jp mws.amazonservices.it mws.amazonservices.fr mws.amazonservices.es mws.amazonservices.de *.google-analytics.com *.facebook.com *.facebook.net *.google.com maps.googleapis.com *.scarabresearch.com *.emarsys.net *.luigisbox.com *.freshrelevance.com wss://am.freshrelevance.com *.termly.io *.feefo.com ekr.zdassets.com/ *.mention-me.com t.elasticsuite.io www.whiskyshop.com 'self' 'unsafe-inline'; child-src www.whiskyshop.com http: https: blob: 'self' 'unsafe-inline'; default-src *.googleapis.com www.whiskyshop.com 'self' 'unsafe-inline' 'unsafe-eval'; base-uri 'self' 'unsafe-inline';
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Magestack-Tag: Dynamic
+Magestack-Area: Frontend
+Magestack-Loadbalancer: 149.86.102.44
+Access-Control-Allow-Origin: https://www.whiskyshop.com
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept
+Magestack-Magento-Version: 2
+Magestack-Debug: true
+Magestack-Last-Modified: true
+Magestack-Config: global
+Magestack-Web-Node: web1
+Magestack-Cacheable: Yes
+Magestack-Cache-Status: 200
+Magestack-Cache-Lifetime: 86400.000
+Magestack-Cache-Warning: Refusing to overwrite response TTL for Magento 2
+Last-Modified: Mon, 17 Mar 2025 11:31:58 GMT
+Magestack-Pagespeed: false
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-store, no-cache, must-revalidate, max-age=0
+Magestack-Cache-Hits: 0
+Magestack-Cache: Miss
+Strict-Transport-Security: max-age=0
+Cf-Cache-Status: DYNAMIC
+Server-Timing: cfCacheStatus;desc="DYNAMIC"
+Server-Timing: cfL4;desc="?proto=TCP&rtt=653208&min_rtt=644829&rtt_var=196107&sent=5&recv=5&lost=0&retrans=0&sent_bytes=2832&recv_bytes=966&delivery_rate=6055&cwnd=252&unsent_bytes=0&cid=afa19b4b0f51f573&ts=3943&x=0"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=oTE0KTyukj1wbZ8HxoeqD7LwiAytPze2kFMMSlQY90WIDCBn6qNYzEbk6mnwTsBLFJfOR73YNp54NksgyLwbXv%2BWDaTrNDtgV79AIM%2BFLlewXG3w%2FhrXkxmB4ZUogWur2A9v1A%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 921c2aacfc6d3d34-BLR
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400
